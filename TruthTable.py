@@ -4,10 +4,10 @@
 # In[ ]:
 
 
-n=int(input())
+n=int(input("Enter Size of Truth Table :"))
 for i in range(2**n):
-    line = [i//2**j%2 for j in reversed(range(n))]
-    print(line)
+    row = [i//2**j%2 for j in reversed(range(n))]
+    print(row)
 
 
 # In[ ]:
