@@ -1,0 +1,14 @@
+Assignment:
+ 
+Using SAGEMAKER STUDIO: 
+ 
+1) Write a notebook to read all files in an S3 bucket 
+2) Combine the text from all the files 
+3) Parse the text as sentences 
+4) Parse the sentences as words
+5) Remove the stop words
+6) Perform stemming of the words 
+7) Store the results in the same S3 bucket, in a new folder called 'results' inside it
+8) Read the same results folder to read all word tokens inside
+9) Perform Label Encoding on all the words
+10) Perform k-means clustering on the labels generated from encoding 
