@@ -1,0 +1,1 @@
+Another example of a game-playing reactive machine is Google’s AlphaGo. AlphaGo is also incapable of evaluating future moves but relies on its own neural network to evaluate developments of the present game, giving it an edge over Deep Blue in a more complex game. AlphaGo also bested world-class competitors of the game, defeating champion Go player Lee Sedol in 2016.
