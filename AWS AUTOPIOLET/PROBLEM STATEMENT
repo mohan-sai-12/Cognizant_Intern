@@ -1,0 +1,12 @@
+Assignment:
+ 
+Using SAGEMAKER STUDIO: 
+ 
+1) Write a notebook to read all CSV files in an S3 bucket 
+2) Combine the files to read a single dataframe
+3) Apply native AWS algorithms from Sagemaker using
+    a) Autopilot (automated ml)
+    b) A loop into multiple algorithms and compare them. Use parallelism for data and models.
+4) Select the best algorithm
+5) Register the Model in Sagemaker
+6) Ensure you are NOT using a single machine but a cluster to leverage parallelism
